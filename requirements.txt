@@ -1,0 +1,12 @@
+torch
+torchvision
+ultralytics
+pytorch-msssim
+albumentations
+opencv-python
+scikit-learn
+numpy
+pillow
+matplotlib
+seaborn
+tqdm

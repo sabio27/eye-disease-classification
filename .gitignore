@@ -1,0 +1,10 @@
+Eye Disease Image Dataset/
+runs/
+*.pt
+*.pth
+*.npz
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
